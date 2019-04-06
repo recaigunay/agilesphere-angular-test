@@ -1,6 +1,5 @@
 # AgileSphere test
 
-You can test online : https://agilesphere-angular.herokuapp.com/
 
 
 Using the Free open weather map api (http://openweathermap.org/forecast5 api key has been included inside weather.service.ts)
